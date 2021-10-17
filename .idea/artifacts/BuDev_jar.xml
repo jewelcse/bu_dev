@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BuDev:jar">
+    <output-path>$PROJECT_DIR$/../../export</output-path>
+    <root id="archive" name="Bu-Dev.jar">
+      <element id="module-output" name="Bu-Dev" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/itextpdf-5.5.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files_2/jackson-core-2.13.0-rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files_2/jackson-annotations-2.13.0-rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/BUPAYMENT WEB PROJECT/final/buPayment/mysql-connector-java-5.1.47-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/servlet/jstl/1.2/jstl-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/com.fasterxml.jackson.databind.jar/com.fasterxml.jackson.databind.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/BUPAYMENT WEB PROJECT/final/buPayment/jstl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/BUPAYMENT WEB PROJECT/final/buPayment/servlet-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/BUPAYMENT WEB PROJECT/buPayment/jsp-api-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files_2/jackson-databind-2.13.0-rc1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

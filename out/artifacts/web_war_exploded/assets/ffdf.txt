@@ -1,0 +1,6 @@
+16CSE001,	110-45-16,	Hfsa,	hafsaFather name,	hafsaMother name,	hafsa@gmail.com,	197386811,	7th,	CSE,	Science,
+16CSE002,	110-45-17,	Hfsa,	hafsaFather name,	hafsaMother name,	hafsa@gmail.com,	197386812,	8th,	CSE,	Science,
+16CSE003,	110-45-18,	Hfsa,	hafsaFather name,	hafsaMother name,	hafsa@gmail.com,	197386813,	9th,	CSE,	Science,
+16CSE004,	110-45-19,	Hfsa,	hafsaFather name,	hafsaMother name,	hafsa@gmail.com,	197386814,	10th,	CSE,	Science,
+16CSE005,	110-45-20,	Hfsa	hafsaFather name,	hafsaMother name,	hafsa@gmail.com,	197386815,	11th,	CSE,	Science,
+16CSE006,	110-45-21,	Hfsa,	hafsaFather name,	hafsaMother name,	hafsa@gmail.com,	197386816,	12th,	CSE,	Science,
