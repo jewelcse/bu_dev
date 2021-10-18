@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Bu-Dev:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bu_Dev_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Bu-Dev" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="E:/BUPAYMENT WEB PROJECT/final/buPayment/jstl.jar" />
+          <element id="file-copy" path="E:/BUPAYMENT WEB PROJECT/final/buPayment/mysql-connector-java-5.1.47-bin.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/jar_files/itextpdf-5.5.9.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/jar_files_2/jackson-annotations-2.13.0-rc1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/jar_files_2/jackson-core-2.13.0-rc1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/jar_files_2/jackson-databind-2.13.0-rc1.jar" />
+          <element id="library" level="project" name="javax.servlet:jstl:1.2" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/com.fasterxml.jackson.databind.jar/com.fasterxml.jackson.databind.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Bu-Dev/web/Web" />
+    </root>
+  </artifact>
+</component>
